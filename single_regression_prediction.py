@@ -2,6 +2,8 @@
 # The same function can be used to make a prediction
 # for a single data instance as long as
 # it is suitably wrapped in a surrounding list or array.
+# the functions demonstrated for making regression predictions apply to
+# all of the regression models available in scikit-learn.
 from sklearn.linear_model import LinearRegression
 from sklearn.datasets import make_regression
 # generate regression dataset

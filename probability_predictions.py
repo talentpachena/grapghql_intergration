@@ -1,4 +1,4 @@
-# make is the probability of the data instance belonging to each class.
+# the probability of the data instance belonging to each class.
 # given a new instance,
 # the model returns the probability for 
 # each outcome class as a value between 0 and 1

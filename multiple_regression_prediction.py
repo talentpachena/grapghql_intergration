@@ -1,6 +1,8 @@
 # example of training a final classification mode
 # make regression predictions on multiple data
 # instances with an unknown expected outcome
+# the functions demonstrated for making regression predictions apply to
+# all of the regression models available in scikit-learn.
 from sklearn.linear_model import LinearRegression
 from sklearn.datasets import make_regression
 # generate regression dataset
